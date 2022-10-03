@@ -1,0 +1,8 @@
+Bgm
+1
+Sfx
+1
+BgmMute
+True
+SfxMute
+True
